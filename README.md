@@ -1,5 +1,5 @@
 # Telemetry Stream Simulation <br>
-This project simulates real=time telemetry data transmission from a satellite to a ground station. It is a C++ TCP-based client-server system. The purpose of this system is to demonstrate low-level socket programming, data serialization, 
+This project simulates real-time telemetry data transmission from a satellite to a ground station. It is a C++ TCP-based client-server system. The purpose of this system is to demonstrate low-level socket programming, data serialization, 
 file manipulation (logging), and a modular software design. This was done using C++ and POSIX sockets in a Linux environment (Ubuntu) <br>
 ## Project Overview <br>
 ### Satellite (Client) <br>
