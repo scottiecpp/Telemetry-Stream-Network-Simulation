@@ -40,7 +40,7 @@ TelemetryStream/
   - git clone https://github.com/scottiecpp/Telemetry-Stream-Network-Simulation
   - cd TelemetryStream
 ### 2. Build
-  - make
+  - make <br>
 This will compile two executables: ground (server) and satellite (client).
 ### 3. Run the Ground Station
   - ./ground <br>
