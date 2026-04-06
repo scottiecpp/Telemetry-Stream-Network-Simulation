@@ -12,7 +12,7 @@
 
 /* runSatellite()
  *
- * Utilizes client helper functions form networkUtil.h to connect to server,
+ * Utilizes client helper functions from networkUtil.h to connect to server,
  * performs error checking, and constructs and sends ten telemetryPacket objects
  * over a TCP socket connection.
  *
