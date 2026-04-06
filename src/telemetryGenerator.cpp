@@ -1,3 +1,10 @@
+/* File: telemetryGenerator.cpp
+ *
+ * Contains implementation of telemetryGenerator.h
+ *
+ * Author: Richard Scott Gisondi
+ * */
+
 #include "telemetryGenerator.h"
 
 #include <cstdlib>

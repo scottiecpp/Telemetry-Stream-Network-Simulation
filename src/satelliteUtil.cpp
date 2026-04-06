@@ -1,3 +1,10 @@
+/* File: satelliteUtil.cpp
+ *
+ * Contains the implementation of satelliteUtil.h
+ *
+ * Author: Richard Scott Gisondi
+ * */
+
 #include "satelliteUtil.h"
 #include "telemetryGenerator.h"
 #include "networkUtil.h"

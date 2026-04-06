@@ -1,3 +1,10 @@
+/* File: telemetryPacket.cpp
+ *
+ * Contains the implementation of telemetryPacket.h
+ *
+ * Author: Richard Scott Gisondi
+ * */
+
 #include "telemetryPacket.h"
 
 #include <sstream>

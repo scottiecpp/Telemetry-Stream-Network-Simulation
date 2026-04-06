@@ -1,3 +1,10 @@
+/* File: groundUtil.cpp
+ *
+ * Contains implementaion of groundUtil.h
+ *
+ * Author: Richard Scott Gisondi
+ * */
+
 #include "groundUtil.h"
 #include "telemetryPacket.h"
 #include "networkUtil.h"

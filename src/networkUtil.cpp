@@ -1,3 +1,10 @@
+/* File: networkUtil.cpp
+ *
+ * Contains the implementation of networkUtil.h
+ *
+ * Author: Richard Scott Gisondi
+ * */
+
 #include "networkUtil.h"
 
 #include <sys/socket.h>
@@ -116,7 +123,7 @@ std::string recvLine(int sock) {
     return result;
 }
 
-//cleanup
+//cleanup (This is redundant)
 void closeSocket(int sock) {
     close(sock);
 }
